@@ -785,7 +785,7 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #black!important;
 }
 
 .ltc-white {
@@ -1082,4 +1082,22 @@ h2 p {
 .contact-our-team {
     position: relative;
     z-index: 99;
+}
+
+.black {
+    color: black!important;
+}
+
+.fa-instagram,
+.fa-dribbble,
+.fa-facebook,
+.fa-twitter {
+    color: rgb(49, 49, 49)!important;
+}
+
+.fa-instagram:hover,
+.fa-dribbble:hover,
+.fa-facebook:hover,
+.fa-twitter:hover {
+    color: black!important;
 }
